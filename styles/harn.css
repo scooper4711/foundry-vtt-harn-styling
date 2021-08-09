@@ -37,6 +37,7 @@ h1, h2 {
 }
 .journal-sheet .editor-content h1{
     font-size:.987cm;
+    column-span:all;
     -webkit-column-span:all;
     -moz-column-span:all;
 	border-bottom: none;
@@ -44,6 +45,7 @@ h1, h2 {
 }
 .journal-sheet .editor-content h2{
     font-size:.705cm;
+    column-span:all;
     -webkit-column-span:all;
     -moz-column-span:all;
 	border-bottom: none;
@@ -52,6 +54,7 @@ h1, h2 {
 
 .journal-sheet .editor-content h3{
     font-size:.529cm;
+    column-span:all;
     -webkit-column-span:all;
     -moz-column-span:all;
 	border-bottom: 2px solid #c9ad6a;
@@ -60,6 +63,7 @@ h1, h2 {
 .journal-sheet .editor-content h4{
 	margin-bottom: 0 ;
     font-size:.458cm;
+    column-span:all;
     -webkit-column-span:all;
     -moz-column-span:all;
 	-webkit-text-stroke-width: 0.6px;
@@ -82,6 +86,7 @@ h1, h2 {
 	margin-top: -0.8em;
 }
 
+.drop-cap,
 .journal-sheet .editor-content h1+p::first-letter{
     float:left;
     font-family:Solberry;
@@ -259,6 +264,12 @@ h1, h2 {
 }
 
 
+@font-face{
+    font-family:uncialantiqua
+    src:url(https://fonts.gstatic.com/s/uncialantiqua/v10/N0bM2S5WOex4OUbESzoESK-i-MfWQZRjBjSE.woff2) format('opentype');
+    font-weight:normal;
+    font-style:normal
+}
 /* 
   Credit:
   https://github.com/jonathonf/solbera-dnd-fonts
