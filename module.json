@@ -10,6 +10,7 @@
   "esmodules": [
 		"harn.js"
   ],
+  "download": "https://github.com/scooper4711/foundry-vtt-harn-styling/releases/download/v1.0.0/foundry-vtt-harn-styling.zip",
 	"packs": [],
   "author": "scooper4711",
   "url": "https://github.com/Daxiongmao87/foundry-vtt-5e-phb-journal-styling",
