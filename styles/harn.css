@@ -19,15 +19,6 @@ h1, h2 {
     margin-bottom:.2em ;
     color: rgb(93, 24, 13) ;
 }
-.lankorian,
-.lankorian h1,
-.lankorian h2,
-.lankorian h3,
-.lankorian h4,
-.lankorian h5, 
-.lankorian p {
-    font-family:Lankorian-Blackhand !important;
-}
 .journal-sheet .editor-content h3, 
 .journal-sheet .editor-content h4 {
     margin-top:.2em ; 
@@ -265,8 +256,20 @@ h1, h2 {
 
 
 @font-face{
-    font-family:uncialantiqua
-    src:url(https://fonts.gstatic.com/s/uncialantiqua/v10/N0bM2S5WOex4OUbESzoESK-i-MfWQZRjBjSE.woff2) format('opentype');
+    font-family:"Uncial Antiqua";
+    src:url('../fonts/uncial-antiqua.woff2') format('opentype');
+    font-weight:normal;
+    font-style:normal
+}
+@font-face{
+    font-family:"Lakise";
+    src:url('../fonts/Hârn Lakise Normal.otf') format('opentype');
+    font-weight:normal;
+    font-style:normal
+}
+@font-face{
+    font-family:"Runic";
+    src:url('../fonts/Hârn Runic Normal.otf') format('opentype');
     font-weight:normal;
     font-style:normal
 }
