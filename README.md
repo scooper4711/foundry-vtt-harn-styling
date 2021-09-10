@@ -14,6 +14,8 @@
       style selector. 
       ![Fancy Table Selector](images/FancyTable.png)
 
+## Installation
+Use this [manifest file](https://github.com/scooper4711/foundry-vtt-harn-styling/blob/main/module.json)
 ## Credits
 * This module is based heavily on Daxiongmao87's D&D 5th Edition PHB Journal Styling for Foundry VTT. 
 * Most of the fonts used in this CSS are from https://github.com/jonathonf/solbera-dnd-fonts

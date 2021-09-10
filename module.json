@@ -14,7 +14,7 @@
 	"packs": [],
   "author": "scooper4711",
   "url": "https://github.com/scooper4711/foundry-vtt-harn-styling",
-  "manifest": "https://raw.githubusercontent.com/scooper4711/foundry-vtt-harn-styling/v1.1.0/module.json",
+  "manifest": "https://github.com/scooper4711/foundry-vtt-harn-styling/blob/main/module.json",
   "protected": false,
   "coreTranslation": false
 }
